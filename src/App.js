@@ -12,7 +12,6 @@ function App() {
         <div className="right_menu">right_menu</div>
       </div>
       <div className="bottom">
-
       </div>
     </div>
   );
