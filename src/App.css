@@ -1,0 +1,39 @@
+.container {
+}
+
+.upper {
+  height: 70vh;
+  display: block;
+}
+
+.left_menu {
+  display: block;
+  float: left;
+  width: 20%;
+  background-color: aqua;
+  height: 100%;
+}
+
+.main_menu {
+  display: block;
+  float: left;
+  width: 60%;
+  height: 100%;
+}
+
+.right_menu {
+  display: block;
+  float: left;
+  width: 20%;
+  background-color: bisque;
+  height: 100%;
+}
+
+.bottom {
+  height: 30vh;
+  display: block;
+}
+
+.background {
+  display: block;
+}
